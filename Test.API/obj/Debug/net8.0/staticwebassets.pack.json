@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Test.UI\\Test.API\\wwwroot\\Images\\011.png",
+      "PackagePath": "staticwebassets\\Images\\011.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Test.UI\\Test.API\\wwwroot\\Images\\012.png",
+      "PackagePath": "staticwebassets\\Images\\012.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Test.UI\\Test.API\\wwwroot\\Images\\013.png",
+      "PackagePath": "staticwebassets\\Images\\013.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Test.UI\\Test.API\\wwwroot\\Images\\014.png",
+      "PackagePath": "staticwebassets\\Images\\014.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Test.UI\\Test.API\\wwwroot\\Images\\015.png",
+      "PackagePath": "staticwebassets\\Images\\015.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Test.UI\\Test.API\\wwwroot\\Images\\016.png",
+      "PackagePath": "staticwebassets\\Images\\016.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Test.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Test.API.props",
+      "PackagePath": "build\\Test.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Test.API.props",
+      "PackagePath": "buildMultiTargeting\\Test.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Test.API.props",
+      "PackagePath": "buildTransitive\\Test.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

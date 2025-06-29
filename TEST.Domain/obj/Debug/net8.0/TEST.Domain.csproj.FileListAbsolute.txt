@@ -1,0 +1,11 @@
+C:\Users\Natac\source\repos\Test.UI\TEST.Domain\bin\Debug\net8.0\TEST.Domain.deps.json
+C:\Users\Natac\source\repos\Test.UI\TEST.Domain\bin\Debug\net8.0\TEST.Domain.dll
+C:\Users\Natac\source\repos\Test.UI\TEST.Domain\bin\Debug\net8.0\TEST.Domain.pdb
+C:\Users\Natac\source\repos\Test.UI\TEST.Domain\obj\Debug\net8.0\TEST.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natac\source\repos\Test.UI\TEST.Domain\obj\Debug\net8.0\TEST.Domain.AssemblyInfoInputs.cache
+C:\Users\Natac\source\repos\Test.UI\TEST.Domain\obj\Debug\net8.0\TEST.Domain.AssemblyInfo.cs
+C:\Users\Natac\source\repos\Test.UI\TEST.Domain\obj\Debug\net8.0\TEST.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Natac\source\repos\Test.UI\TEST.Domain\obj\Debug\net8.0\TEST.Domain.dll
+C:\Users\Natac\source\repos\Test.UI\TEST.Domain\obj\Debug\net8.0\refint\TEST.Domain.dll
+C:\Users\Natac\source\repos\Test.UI\TEST.Domain\obj\Debug\net8.0\TEST.Domain.pdb
+C:\Users\Natac\source\repos\Test.UI\TEST.Domain\obj\Debug\net8.0\ref\TEST.Domain.dll
